@@ -1,0 +1,19 @@
+This is Weather App Website
+
+==================== Functionality=============
+----> Response Weather condition by citites
+
+
+
+Created by : M Sharjeel Shaikh
+==================== Instruction To Run Website =============
+---> 1.Download Python.
+---> 2.Pip install Django in cmd.
+---> request library is require to use api.
+---> 3.Open folder in Cmd where you kept it folder.
+---> 4.Pass Command "python manage.py runserver".
+---> 5.Open Browser and type localhost(port: 8000)
+---> 6.
+
+==================== Api Key By =============
+-- > Openweather.org
